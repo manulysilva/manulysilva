@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manulysilva
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning programming in C#
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me  - manulysilva@yandex.ru
 
 <!---
